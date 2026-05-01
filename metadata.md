@@ -185,7 +185,13 @@ Example entries:
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+The junior seminar course was very demanding. The structure relied on a series of high-intensity sprints, and the pace often felt relentless. Balancing this workload alongside other classes made it challenging at times to meet deadlines consistently.
+
+I think the course would benefit from more time at the beginning dedicated to brainstorming and refining ideas. It sometimes felt like the focus shifted toward completing a project quickly rather than fully developing something meaningful. I understand the intention behind the structure, especially as preparation for the 600-level course next semester, but the workload felt concentrated all at once.
+
+That said, I learned a great deal from the experience. The course was difficult, but also highly insightful, and I feel much more confident in my ability to write a strong academic paper.
+
+One area that could be improved is the grading system. Feedback and grades were often given in large, irregular chunks, which made it hard to gauge overall progress in the course. A more consistent grading timeline would help students better understand where they stand.
+
+I also think it would be helpful to incorporate dedicated office hour time into class sessions. Currently, scheduling meetings outside of class can be difficult, especially when some students book multiple slots, limiting availability for others.
+
